@@ -22,6 +22,24 @@ October, November, and December of both 2016 and 2017.
 
 Note that the train data comes from 2016, but we're asked to predict on 2017 data.
 
+### Highlights of the project
+This project was developed with the sould purpose of learning, creating a baseline prediction model, developing a production-ready code and sharing with the data science community. I would really love your feedback on my approach.
+This project is an amazing resourse of:
+- Well organized code structure following PEP8 style guide
+- Using Jupyter effectively to create production-ready code
+- Dealing with and imputing missing data
+- Dealing with and transforming temporal data
+- Encoding categorical data
+- Preprocessing data
+- Streaming vs batch processing
+- OOP for data science
+- Building a your own pipeline with scikit-learn
+- Creating and importing your own modules
+- Dealing with datatypes when saving/loading data
+- Taking an agile approach to data science
+- Pickling models
+- And more!
+
 ### Getting Organized
 Organizing your code and data is a crucial first step to any data science project. There are several reasons for this:
 
